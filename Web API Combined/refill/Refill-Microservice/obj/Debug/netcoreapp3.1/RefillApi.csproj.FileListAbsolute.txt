@@ -1,0 +1,413 @@
+C:\Users\user\source\repos\RefillApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\user\source\repos\RefillApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\source\repos\RefillApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\user\source\repos\RefillApi\obj\Debug\netcoreapp3.1\RefillApi.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\RefillApi\obj\Debug\netcoreapp3.1\RefillApi.AssemblyInfo.cs
+C:\Users\user\source\repos\RefillApi\obj\Debug\netcoreapp3.1\RefillApi.RazorTargetAssemblyInfo.cache
+C:\Users\user\source\repos\RefillApi\obj\Debug\netcoreapp3.1\staticwebassets\RefillApi.StaticWebAssets.Manifest.cache
+C:\Users\user\source\repos\RefillApi\obj\Debug\netcoreapp3.1\staticwebassets\RefillApi.StaticWebAssets.xml
+C:\Users\user\source\repos\RefillApi\bin\Debug\netcoreapp3.1\RefillApi.exe
+C:\Users\user\source\repos\RefillApi\bin\Debug\netcoreapp3.1\RefillApi.deps.json
+C:\Users\user\source\repos\RefillApi\bin\Debug\netcoreapp3.1\RefillApi.runtimeconfig.json
+C:\Users\user\source\repos\RefillApi\bin\Debug\netcoreapp3.1\RefillApi.runtimeconfig.dev.json
+C:\Users\user\source\repos\RefillApi\bin\Debug\netcoreapp3.1\RefillApi.dll
+C:\Users\user\source\repos\RefillApi\bin\Debug\netcoreapp3.1\RefillApi.pdb
+C:\Users\user\source\repos\RefillApi\obj\Debug\netcoreapp3.1\RefillApi.dll
+C:\Users\user\source\repos\RefillApi\obj\Debug\netcoreapp3.1\RefillApi.pdb
+C:\Users\user\source\repos\RefillApi\obj\Debug\netcoreapp3.1\RefillApi.genruntimeconfig.cache
+C:\Users\user\source\repos\RefillApi\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\user\source\repos\RefillApi\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\user\source\repos\RefillApi\bin\Debug\netcoreapp3.1\System.Web.Http.WebHost.dll
+C:\Users\user\source\repos\RefillApi\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Users\user\source\repos\RefillApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\user\source\repos\RefillApi\bin\Debug\netcoreapp3.1\Swashbuckle.Core.dll
+C:\Users\user\source\repos\RefillApi\bin\Debug\netcoreapp3.1\WebActivatorEx.dll
+C:\Users\user\source\repos\RefillApi\obj\Debug\netcoreapp3.1\RefillApi.csproj.CopyComplete
+C:\Users\user\source\repos\RefillApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\user\source\repos\RefillApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\source\repos\RefillApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\source\repos\RefillApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\source\repos\RefillApi\obj\Debug\netcoreapp3.1\RefillApi.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\RefillApi\obj\Debug\netcoreapp3.1\RefillApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\source\repos\RefillApi\obj\Debug\netcoreapp3.1\RefillApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\source\repos\RefillApi\obj\Debug\netcoreapp3.1\RefillApi.csprojAssemblyReference.cache
+C:\Users\user\Desktop\MFPE\Mfpe-RefillApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\user\Desktop\MFPE\Mfpe-RefillApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\Desktop\MFPE\Mfpe-RefillApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\user\Desktop\MFPE\Mfpe-RefillApi\bin\Debug\netcoreapp3.1\RefillApi.exe
+C:\Users\user\Desktop\MFPE\Mfpe-RefillApi\bin\Debug\netcoreapp3.1\RefillApi.deps.json
+C:\Users\user\Desktop\MFPE\Mfpe-RefillApi\bin\Debug\netcoreapp3.1\RefillApi.runtimeconfig.json
+C:\Users\user\Desktop\MFPE\Mfpe-RefillApi\bin\Debug\netcoreapp3.1\RefillApi.runtimeconfig.dev.json
+C:\Users\user\Desktop\MFPE\Mfpe-RefillApi\bin\Debug\netcoreapp3.1\RefillApi.dll
+C:\Users\user\Desktop\MFPE\Mfpe-RefillApi\bin\Debug\netcoreapp3.1\RefillApi.pdb
+C:\Users\user\Desktop\MFPE\Mfpe-RefillApi\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\user\Desktop\MFPE\Mfpe-RefillApi\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\user\Desktop\MFPE\Mfpe-RefillApi\bin\Debug\netcoreapp3.1\System.Web.Http.WebHost.dll
+C:\Users\user\Desktop\MFPE\Mfpe-RefillApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\MFPE\Mfpe-RefillApi\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\MFPE\Mfpe-RefillApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\user\Desktop\MFPE\Mfpe-RefillApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\MFPE\Mfpe-RefillApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\MFPE\Mfpe-RefillApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\MFPE\Mfpe-RefillApi\bin\Debug\netcoreapp3.1\Swashbuckle.Core.dll
+C:\Users\user\Desktop\MFPE\Mfpe-RefillApi\bin\Debug\netcoreapp3.1\WebActivatorEx.dll
+C:\Users\user\Desktop\MFPE\Mfpe-RefillApi\obj\Debug\netcoreapp3.1\RefillApi.csprojAssemblyReference.cache
+C:\Users\user\Desktop\MFPE\Mfpe-RefillApi\obj\Debug\netcoreapp3.1\RefillApi.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\MFPE\Mfpe-RefillApi\obj\Debug\netcoreapp3.1\RefillApi.AssemblyInfo.cs
+C:\Users\user\Desktop\MFPE\Mfpe-RefillApi\obj\Debug\netcoreapp3.1\RefillApi.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MFPE\Mfpe-RefillApi\obj\Debug\netcoreapp3.1\RefillApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\MFPE\Mfpe-RefillApi\obj\Debug\netcoreapp3.1\RefillApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\MFPE\Mfpe-RefillApi\obj\Debug\netcoreapp3.1\RefillApi.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\MFPE\Mfpe-RefillApi\obj\Debug\netcoreapp3.1\RefillApi.csproj.CopyComplete
+C:\Users\user\Desktop\MFPE\Mfpe-RefillApi\obj\Debug\netcoreapp3.1\staticwebassets\RefillApi.StaticWebAssets.Manifest.cache
+C:\Users\user\Desktop\MFPE\Mfpe-RefillApi\obj\Debug\netcoreapp3.1\staticwebassets\RefillApi.StaticWebAssets.xml
+C:\Users\user\Desktop\MFPE\Mfpe-RefillApi\obj\Debug\netcoreapp3.1\RefillApi.dll
+C:\Users\user\Desktop\MFPE\Mfpe-RefillApi\obj\Debug\netcoreapp3.1\RefillApi.pdb
+C:\Users\user\Desktop\MFPE\Mfpe-RefillApi\obj\Debug\netcoreapp3.1\RefillApi.genruntimeconfig.cache
+C:\Users\user\Desktop\MFPE\NEW REFILLAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\user\Desktop\MFPE\NEW REFILLAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\Desktop\MFPE\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\user\Desktop\MFPE\NEW REFILLAPI\bin\Debug\netcoreapp3.1\RefillApi.exe
+C:\Users\user\Desktop\MFPE\NEW REFILLAPI\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\user\Desktop\MFPE\NEW REFILLAPI\bin\Debug\netcoreapp3.1\RefillApi.deps.json
+C:\Users\user\Desktop\MFPE\NEW REFILLAPI\bin\Debug\netcoreapp3.1\RefillApi.runtimeconfig.json
+C:\Users\user\Desktop\MFPE\NEW REFILLAPI\bin\Debug\netcoreapp3.1\RefillApi.runtimeconfig.dev.json
+C:\Users\user\Desktop\MFPE\NEW REFILLAPI\bin\Debug\netcoreapp3.1\RefillApi.dll
+C:\Users\user\Desktop\MFPE\NEW REFILLAPI\bin\Debug\netcoreapp3.1\RefillApi.pdb
+C:\Users\user\Desktop\MFPE\NEW REFILLAPI\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\user\Desktop\MFPE\NEW REFILLAPI\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\user\Desktop\MFPE\NEW REFILLAPI\bin\Debug\netcoreapp3.1\System.Web.Http.WebHost.dll
+C:\Users\user\Desktop\MFPE\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\MFPE\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\MFPE\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\user\Desktop\MFPE\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\MFPE\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\MFPE\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\MFPE\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Swashbuckle.Core.dll
+C:\Users\user\Desktop\MFPE\NEW REFILLAPI\bin\Debug\netcoreapp3.1\WebActivatorEx.dll
+C:\Users\user\Desktop\MFPE\NEW REFILLAPI\obj\Debug\netcoreapp3.1\RefillApi.csprojAssemblyReference.cache
+C:\Users\user\Desktop\MFPE\NEW REFILLAPI\obj\Debug\netcoreapp3.1\RefillApi.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\MFPE\NEW REFILLAPI\obj\Debug\netcoreapp3.1\RefillApi.AssemblyInfo.cs
+C:\Users\user\Desktop\MFPE\NEW REFILLAPI\obj\Debug\netcoreapp3.1\RefillApi.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\MFPE\NEW REFILLAPI\obj\Debug\netcoreapp3.1\RefillApi.csproj.CopyComplete
+C:\Users\user\Desktop\MFPE\NEW REFILLAPI\obj\Debug\netcoreapp3.1\staticwebassets\RefillApi.StaticWebAssets.Manifest.cache
+C:\Users\user\Desktop\MFPE\NEW REFILLAPI\obj\Debug\netcoreapp3.1\staticwebassets\RefillApi.StaticWebAssets.xml
+C:\Users\user\Desktop\MFPE\NEW REFILLAPI\obj\Debug\netcoreapp3.1\RefillApi.dll
+C:\Users\user\Desktop\MFPE\NEW REFILLAPI\obj\Debug\netcoreapp3.1\RefillApi.pdb
+C:\Users\user\Desktop\MFPE\NEW REFILLAPI\obj\Debug\netcoreapp3.1\RefillApi.genruntimeconfig.cache
+C:\Users\user\Desktop\MFPE\NEW REFILLAPI\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\user\Desktop\MFPE\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\user\Desktop\MFPE\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Desktop\MFPE\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\user\Desktop\MFPE\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\MFPE\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Desktop\MFPE\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\user\Desktop\MFPE\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Desktop\MFPE\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\user\Desktop\MFPE\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\user\Desktop\MFPE\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Desktop\MFPE\NEW REFILLAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\MFPE\NEW REFILLAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\MFPE\NEW REFILLAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\MFPE\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user\Desktop\MFPE\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\MFPE\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\MFPE\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\MFPE\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\MFPE\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\MFPE\NEW REFILLAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\MFPE\NEW REFILLAPI\obj\Debug\netcoreapp3.1\RefillApi.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MFPE\NEW REFILLAPI\obj\Debug\netcoreapp3.1\RefillApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\MFPE\NEW REFILLAPI\obj\Debug\netcoreapp3.1\RefillApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\Mail Order Pharmacy\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\user\Desktop\Mail Order Pharmacy\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\user\Desktop\Mail Order Pharmacy\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\Desktop\Mail Order Pharmacy\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\user\Desktop\Mail Order Pharmacy\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\RefillApi.exe
+C:\Users\user\Desktop\Mail Order Pharmacy\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\RefillApi.deps.json
+C:\Users\user\Desktop\Mail Order Pharmacy\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\RefillApi.runtimeconfig.json
+C:\Users\user\Desktop\Mail Order Pharmacy\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\RefillApi.runtimeconfig.dev.json
+C:\Users\user\Desktop\Mail Order Pharmacy\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\RefillApi.dll
+C:\Users\user\Desktop\Mail Order Pharmacy\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\RefillApi.pdb
+C:\Users\user\Desktop\Mail Order Pharmacy\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\user\Desktop\Mail Order Pharmacy\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\user\Desktop\Mail Order Pharmacy\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\user\Desktop\Mail Order Pharmacy\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\System.Web.Http.WebHost.dll
+C:\Users\user\Desktop\Mail Order Pharmacy\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user\Desktop\Mail Order Pharmacy\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\user\Desktop\Mail Order Pharmacy\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Desktop\Mail Order Pharmacy\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\user\Desktop\Mail Order Pharmacy\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\Mail Order Pharmacy\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Desktop\Mail Order Pharmacy\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\user\Desktop\Mail Order Pharmacy\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Desktop\Mail Order Pharmacy\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\user\Desktop\Mail Order Pharmacy\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\user\Desktop\Mail Order Pharmacy\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Desktop\Mail Order Pharmacy\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\Mail Order Pharmacy\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\Mail Order Pharmacy\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\Mail Order Pharmacy\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\Mail Order Pharmacy\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\Mail Order Pharmacy\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\Mail Order Pharmacy\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\Mail Order Pharmacy\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Mail Order Pharmacy\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\Mail Order Pharmacy\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\Mail Order Pharmacy\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\Mail Order Pharmacy\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Swashbuckle.Core.dll
+C:\Users\user\Desktop\Mail Order Pharmacy\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\Mail Order Pharmacy\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\Mail Order Pharmacy\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\Mail Order Pharmacy\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\WebActivatorEx.dll
+C:\Users\user\Desktop\Mail Order Pharmacy\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\Mail Order Pharmacy\FINALREFILLAPI-master\NEW REFILLAPI\obj\Debug\netcoreapp3.1\RefillApi.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Mail Order Pharmacy\FINALREFILLAPI-master\NEW REFILLAPI\obj\Debug\netcoreapp3.1\RefillApi.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Mail Order Pharmacy\FINALREFILLAPI-master\NEW REFILLAPI\obj\Debug\netcoreapp3.1\RefillApi.AssemblyInfo.cs
+C:\Users\user\Desktop\Mail Order Pharmacy\FINALREFILLAPI-master\NEW REFILLAPI\obj\Debug\netcoreapp3.1\RefillApi.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Mail Order Pharmacy\FINALREFILLAPI-master\NEW REFILLAPI\obj\Debug\netcoreapp3.1\RefillApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\Mail Order Pharmacy\FINALREFILLAPI-master\NEW REFILLAPI\obj\Debug\netcoreapp3.1\RefillApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\Mail Order Pharmacy\FINALREFILLAPI-master\NEW REFILLAPI\obj\Debug\netcoreapp3.1\RefillApi.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\Mail Order Pharmacy\FINALREFILLAPI-master\NEW REFILLAPI\obj\Debug\netcoreapp3.1\RefillApi.csproj.CopyComplete
+C:\Users\user\Desktop\Mail Order Pharmacy\FINALREFILLAPI-master\NEW REFILLAPI\obj\Debug\netcoreapp3.1\staticwebassets\RefillApi.StaticWebAssets.Manifest.cache
+C:\Users\user\Desktop\Mail Order Pharmacy\FINALREFILLAPI-master\NEW REFILLAPI\obj\Debug\netcoreapp3.1\staticwebassets\RefillApi.StaticWebAssets.xml
+C:\Users\user\Desktop\Mail Order Pharmacy\FINALREFILLAPI-master\NEW REFILLAPI\obj\Debug\netcoreapp3.1\RefillApi.dll
+C:\Users\user\Desktop\Mail Order Pharmacy\FINALREFILLAPI-master\NEW REFILLAPI\obj\Debug\netcoreapp3.1\RefillApi.pdb
+C:\Users\user\Desktop\Mail Order Pharmacy\FINALREFILLAPI-master\NEW REFILLAPI\obj\Debug\netcoreapp3.1\RefillApi.genruntimeconfig.cache
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\RefillApi.StaticWebAssets.xml
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\RefillApi.exe
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\RefillApi.deps.json
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\RefillApi.runtimeconfig.json
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\RefillApi.runtimeconfig.dev.json
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\RefillApi.dll
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\RefillApi.pdb
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\System.Web.Http.WebHost.dll
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\Swashbuckle.Core.dll
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\WebActivatorEx.dll
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\FINALREFILLAPI-master\NEW REFILLAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\FINALREFILLAPI-master\NEW REFILLAPI\obj\Debug\netcoreapp3.1\RefillApi.csproj.AssemblyReference.cache
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\FINALREFILLAPI-master\NEW REFILLAPI\obj\Debug\netcoreapp3.1\RefillApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\FINALREFILLAPI-master\NEW REFILLAPI\obj\Debug\netcoreapp3.1\RefillApi.AssemblyInfoInputs.cache
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\FINALREFILLAPI-master\NEW REFILLAPI\obj\Debug\netcoreapp3.1\RefillApi.AssemblyInfo.cs
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\FINALREFILLAPI-master\NEW REFILLAPI\obj\Debug\netcoreapp3.1\RefillApi.csproj.CoreCompileInputs.cache
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\FINALREFILLAPI-master\NEW REFILLAPI\obj\Debug\netcoreapp3.1\RefillApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\FINALREFILLAPI-master\NEW REFILLAPI\obj\Debug\netcoreapp3.1\RefillApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\FINALREFILLAPI-master\NEW REFILLAPI\obj\Debug\netcoreapp3.1\staticwebassets\RefillApi.StaticWebAssets.Manifest.cache
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\FINALREFILLAPI-master\NEW REFILLAPI\obj\Debug\netcoreapp3.1\RefillApi.RazorTargetAssemblyInfo.cache
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\FINALREFILLAPI-master\NEW REFILLAPI\obj\Debug\netcoreapp3.1\RefillApi.csproj.CopyComplete
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\FINALREFILLAPI-master\NEW REFILLAPI\obj\Debug\netcoreapp3.1\RefillApi.dll
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\FINALREFILLAPI-master\NEW REFILLAPI\obj\Debug\netcoreapp3.1\RefillApi.pdb
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\FINALREFILLAPI-master\NEW REFILLAPI\obj\Debug\netcoreapp3.1\RefillApi.genruntimeconfig.cache
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Refill-Microservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Refill-Microservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Refill-Microservice\bin\Debug\netcoreapp3.1\RefillApi.StaticWebAssets.xml
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Refill-Microservice\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Refill-Microservice\bin\Debug\netcoreapp3.1\RefillApi.exe
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Refill-Microservice\bin\Debug\netcoreapp3.1\RefillApi.deps.json
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Refill-Microservice\bin\Debug\netcoreapp3.1\RefillApi.runtimeconfig.json
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Refill-Microservice\bin\Debug\netcoreapp3.1\RefillApi.runtimeconfig.dev.json
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Refill-Microservice\bin\Debug\netcoreapp3.1\RefillApi.dll
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Refill-Microservice\bin\Debug\netcoreapp3.1\RefillApi.pdb
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Refill-Microservice\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Refill-Microservice\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Refill-Microservice\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Refill-Microservice\bin\Debug\netcoreapp3.1\System.Web.Http.WebHost.dll
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Refill-Microservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Refill-Microservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Refill-Microservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Refill-Microservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Refill-Microservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Refill-Microservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Refill-Microservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Refill-Microservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Refill-Microservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Refill-Microservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Refill-Microservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Refill-Microservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Refill-Microservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Refill-Microservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Refill-Microservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Refill-Microservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Refill-Microservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Refill-Microservice\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Refill-Microservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Refill-Microservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Refill-Microservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Refill-Microservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Refill-Microservice\bin\Debug\netcoreapp3.1\Swashbuckle.Core.dll
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Refill-Microservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Refill-Microservice\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Refill-Microservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Refill-Microservice\bin\Debug\netcoreapp3.1\WebActivatorEx.dll
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Refill-Microservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Refill-Microservice\obj\Debug\netcoreapp3.1\RefillApi.csproj.AssemblyReference.cache
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Refill-Microservice\obj\Debug\netcoreapp3.1\RefillApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Refill-Microservice\obj\Debug\netcoreapp3.1\RefillApi.AssemblyInfoInputs.cache
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Refill-Microservice\obj\Debug\netcoreapp3.1\RefillApi.AssemblyInfo.cs
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Refill-Microservice\obj\Debug\netcoreapp3.1\RefillApi.csproj.CoreCompileInputs.cache
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Refill-Microservice\obj\Debug\netcoreapp3.1\RefillApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Refill-Microservice\obj\Debug\netcoreapp3.1\RefillApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Refill-Microservice\obj\Debug\netcoreapp3.1\staticwebassets\RefillApi.StaticWebAssets.Manifest.cache
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Refill-Microservice\obj\Debug\netcoreapp3.1\RefillApi.RazorTargetAssemblyInfo.cache
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Refill-Microservice\obj\Debug\netcoreapp3.1\RefillApi.csproj.CopyComplete
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Refill-Microservice\obj\Debug\netcoreapp3.1\RefillApi.dll
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Refill-Microservice\obj\Debug\netcoreapp3.1\RefillApi.pdb
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Refill-Microservice\obj\Debug\netcoreapp3.1\RefillApi.genruntimeconfig.cache
+E:\DOWNLOADS\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\log4net.config
+E:\DOWNLOADS\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\DOWNLOADS\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\appsettings.json
+E:\DOWNLOADS\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\DOWNLOADS\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\RefillApi.exe
+E:\DOWNLOADS\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\RefillApi.deps.json
+E:\DOWNLOADS\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\RefillApi.runtimeconfig.json
+E:\DOWNLOADS\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\RefillApi.runtimeconfig.dev.json
+E:\DOWNLOADS\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\RefillApi.dll
+E:\DOWNLOADS\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\RefillApi.pdb
+E:\DOWNLOADS\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\log4net.dll
+E:\DOWNLOADS\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+E:\DOWNLOADS\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+E:\DOWNLOADS\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\System.Web.Http.WebHost.dll
+E:\DOWNLOADS\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\DOWNLOADS\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\DOWNLOADS\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\DOWNLOADS\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\DOWNLOADS\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\DOWNLOADS\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\DOWNLOADS\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\DOWNLOADS\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\DOWNLOADS\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+E:\DOWNLOADS\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\DOWNLOADS\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\DOWNLOADS\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\DOWNLOADS\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\DOWNLOADS\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\DOWNLOADS\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\DOWNLOADS\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\DOWNLOADS\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\DOWNLOADS\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+E:\DOWNLOADS\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\DOWNLOADS\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\DOWNLOADS\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\DOWNLOADS\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\DOWNLOADS\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\Swashbuckle.Core.dll
+E:\DOWNLOADS\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\DOWNLOADS\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\DOWNLOADS\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\DOWNLOADS\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\WebActivatorEx.dll
+E:\DOWNLOADS\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\DOWNLOADS\Web-Api-combined\Refill-Microservice\obj\Debug\netcoreapp3.1\RefillApi.csprojAssemblyReference.cache
+E:\DOWNLOADS\Web-Api-combined\Refill-Microservice\obj\Debug\netcoreapp3.1\RefillApi.AssemblyInfoInputs.cache
+E:\DOWNLOADS\Web-Api-combined\Refill-Microservice\obj\Debug\netcoreapp3.1\RefillApi.AssemblyInfo.cs
+E:\DOWNLOADS\Web-Api-combined\Refill-Microservice\obj\Debug\netcoreapp3.1\RefillApi.csproj.CoreCompileInputs.cache
+E:\DOWNLOADS\Web-Api-combined\Refill-Microservice\obj\Debug\netcoreapp3.1\RefillApi.MvcApplicationPartsAssemblyInfo.cs
+E:\DOWNLOADS\Web-Api-combined\Refill-Microservice\obj\Debug\netcoreapp3.1\RefillApi.MvcApplicationPartsAssemblyInfo.cache
+E:\DOWNLOADS\Web-Api-combined\Refill-Microservice\obj\Debug\netcoreapp3.1\RefillApi.RazorTargetAssemblyInfo.cache
+E:\DOWNLOADS\Web-Api-combined\Refill-Microservice\obj\Debug\netcoreapp3.1\RefillApi.csproj.CopyComplete
+E:\DOWNLOADS\Web-Api-combined\Refill-Microservice\obj\Debug\netcoreapp3.1\staticwebassets\RefillApi.StaticWebAssets.Manifest.cache
+E:\DOWNLOADS\Web-Api-combined\Refill-Microservice\obj\Debug\netcoreapp3.1\staticwebassets\RefillApi.StaticWebAssets.xml
+E:\DOWNLOADS\Web-Api-combined\Refill-Microservice\obj\Debug\netcoreapp3.1\RefillApi.dll
+E:\DOWNLOADS\Web-Api-combined\Refill-Microservice\obj\Debug\netcoreapp3.1\RefillApi.pdb
+E:\DOWNLOADS\Web-Api-combined\Refill-Microservice\obj\Debug\netcoreapp3.1\RefillApi.genruntimeconfig.cache
+F:\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\log4net.config
+F:\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\RefillApi.exe
+F:\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\RefillApi.deps.json
+F:\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\RefillApi.runtimeconfig.json
+F:\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\RefillApi.runtimeconfig.dev.json
+F:\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\RefillApi.dll
+F:\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\RefillApi.pdb
+F:\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\log4net.dll
+F:\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+F:\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+F:\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\System.Web.Http.WebHost.dll
+F:\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+F:\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+F:\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+F:\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+F:\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\Swashbuckle.Core.dll
+F:\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\WebActivatorEx.dll
+F:\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Web-Api-combined\Refill-Microservice\obj\Debug\netcoreapp3.1\RefillApi.csprojAssemblyReference.cache
+F:\Web-Api-combined\Refill-Microservice\obj\Debug\netcoreapp3.1\RefillApi.AssemblyInfoInputs.cache
+F:\Web-Api-combined\Refill-Microservice\obj\Debug\netcoreapp3.1\RefillApi.AssemblyInfo.cs
+F:\Web-Api-combined\Refill-Microservice\obj\Debug\netcoreapp3.1\RefillApi.RazorTargetAssemblyInfo.cache
+F:\Web-Api-combined\Refill-Microservice\obj\Debug\netcoreapp3.1\RefillApi.csproj.CopyComplete
+F:\Web-Api-combined\Refill-Microservice\obj\Debug\netcoreapp3.1\staticwebassets\RefillApi.StaticWebAssets.Manifest.cache
+F:\Web-Api-combined\Refill-Microservice\obj\Debug\netcoreapp3.1\staticwebassets\RefillApi.StaticWebAssets.xml
+F:\Web-Api-combined\Refill-Microservice\obj\Debug\netcoreapp3.1\RefillApi.dll
+F:\Web-Api-combined\Refill-Microservice\obj\Debug\netcoreapp3.1\RefillApi.pdb
+F:\Web-Api-combined\Refill-Microservice\obj\Debug\netcoreapp3.1\RefillApi.genruntimeconfig.cache
+F:\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Web-Api-combined\Refill-Microservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Web-Api-combined\Refill-Microservice\obj\Debug\netcoreapp3.1\RefillApi.csproj.CoreCompileInputs.cache
+F:\Web-Api-combined\Refill-Microservice\obj\Debug\netcoreapp3.1\RefillApi.MvcApplicationPartsAssemblyInfo.cs
+F:\Web-Api-combined\Refill-Microservice\obj\Debug\netcoreapp3.1\RefillApi.MvcApplicationPartsAssemblyInfo.cache

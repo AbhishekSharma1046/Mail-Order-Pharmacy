@@ -1,0 +1,24 @@
+<div *ngIf=true >
+    <h2>Available Drugs</h2>
+    <div>
+      <table class="table table-bordered table-hover">
+        <thead >
+          <tr>
+            <th>Drug Id</th>
+            <th>Drug Name</th>
+            <th>Drug Quantity</th>
+            <th>Location</th>
+          </tr>
+        </thead>
+        <tbody >
+          <tr *ngFor="let drug of dlist">
+            <td>{{drug.id}}</td>
+            <td>{{drug.drugName }}</td>
+            <td>{{drug.quantity }}</td>
+            <td>{{drug.location}}</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+

@@ -1,0 +1,71 @@
+<!-- <div
+  style="background-image: url(https://snipboard.io/r7aFmf.jpg); background-repeat: no-repeat; background-size: cover;height: 92vh;"> -->
+<div class="container-fluid" >
+    <div class="row">
+      <div class="offset-lg-3 col-lg-6">
+
+  <div class="row" style="background-color: rgba(255, 255, 255, 0.961);">
+      <form [formGroup]="Login" (ngSubmit)="ProceedLogin()">
+
+
+      <div class="row" style="display: block;">
+        <h2 style="text-align: center;" >Login</h2>
+      </div>
+    <div class="row">
+      <div class="offset-lg-3 col-lg-7">
+        <div class="form-group">
+          <label for="txtemail"><strong>User Email</strong></label>
+          <input type="email" id="txtemail" class="form-control" formControlName="Email" placeholder="Enter the User Email"
+            autocomplete="off" />
+          <small *ngIf="Login.get('Email')?.invalid" class="text-danger">Email is required</small>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="offset-lg-3 col-lg-7">
+          <div class="form-group">
+              <label for="txtpassword"><strong>Password</strong></label>
+              <input type="password" id="txtpassword" class="form-control" formControlName="Password"  placeholder="Enter the password"  autocomplete="off"  />
+              <small *ngIf="Login.get('Password')?.invalid" class="text-danger">Password is required</small>
+          </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="offset-lg-3 col-lg-2">
+        <br>
+          <div class="form-group" style="text-align: center;">
+             <button type="submit" class="btn btn-primary btn-lg btn-block" >Login</button>
+             <!-- <button type="submit" class="btn btn-primary btn-lg btn-block">Login</button> -->
+          </div>
+      </div>
+
+     <!-- <div class="offset-lg-3 col-lg-2">
+        <br>
+        <div class="form-group" style="text-align: center;">
+          <button type="reset" value="Reset" class="btn btn-warning btn-lg btn-block">Reset</button>
+          <button type="submit" class="btn btn-primary btn-lg btn-block">Login</button> 
+        </div>
+       </div> 
+      -->
+
+      <div class="col-lg-3">
+          <br>
+          <span></span>
+      </div>
+    </div>
+  </form>
+
+  <br>
+  <div class="row">
+    <div class="offset-lg-3 col-lg-6">
+        <div >
+            <h6>{{errorMessage}}</h6>
+          </div>
+    </div>
+  </div>
+
+    </div>
+  </div>
+  </div>
+  </div>
+<!-- </div> -->

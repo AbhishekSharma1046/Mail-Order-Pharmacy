@@ -1,0 +1,103 @@
+<div
+  style=" background-repeat: no-repeat; background-size: cover;height: 92vh;">
+<h1>Subscribe To Mail Order Pharmacy!</h1>
+<div class="container-fluid" style="margin-top: 10%;">
+  <div class="row">
+    <div class="offset-lg-3 col-lg-6">
+
+      <div class="card-box" style="background-color: rgba(204, 204, 204, 0.322);">
+
+        <form [formGroup]="Login" (ngSubmit)="submit()">
+          <div class="row" style="display: block;">
+            <h2 style="text-align: center;">Subscribe To Order Drugs!</h2>
+          </div>
+          
+          <div class="row">
+            <div class="offset-lg-3 col-lg-6">
+              <div class="form-group">
+                <label for="drugid">
+                  Enter InsurancePolicyNumber</label>
+                <input type="number"  class="form-control" formControlName="insurancePolicyNumber" placeholder="" autocomplete="off" />
+              </div>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="offset-lg-3 col-lg-6">
+              <div class="form-group">
+                <label for="drugid">Enter InsuranceProvider</label>
+                <input type="text"  class="form-control" formControlName="insuranceProvider" placeholder="" autocomplete="off" />
+              </div>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="offset-lg-3 col-lg-6">
+              <div class="form-group">
+                <label for="drugid">Enter PrescriptionDate</label>
+                <input type="date" class="form-control" formControlName="prescriptionDate" placeholder="" autocomplete="off" />
+              </div>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="offset-lg-3 col-lg-6">
+              <div class="form-group">
+                <label for="drugid">Enter DrugName</label>
+                <input type="text" class="form-control" formControlName="DrugName" placeholder="" autocomplete="off" />
+              </div>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="offset-lg-3 col-lg-6">
+              <div class="form-group">
+                <label for="drugid">Enter DoctorName</label>
+                <input type="text"  class="form-control" formControlName="doctorName" placeholder="" autocomplete="off" />
+              </div>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="offset-lg-3 col-lg-6">
+              <div class="form-group">
+                <label for="drugid">Enter RefillOccurrence</label>
+                <input type="text"  class="form-control" formControlName="refillOccurrence" placeholder="" autocomplete="off" />
+              </div>
+            </div>
+          </div>
+
+
+          <div class="row">
+            <div class="offset-lg-3 col-lg-2">
+              <br>
+              <div class="form-group" style="text-align: center;">
+                <button type="submit" class="btn btn-danger btn-lg btn-block">Subscribe</button>
+              </div>
+            </div>
+            <div class="col-lg-3">
+              <br>
+              <span></span>
+            </div>
+          </div>
+
+        </form>
+        
+          <br>
+          <!-- //Put some value here -->
+          <div style="color:brown" class="row">
+            
+          <div *ngIf=tr>
+            <h3>You Have Successfully Subscribed To Our Service </h3>
+           
+          </div>
+       
+      </div>
+
+       
+
+      </div>
+    </div>
+  </div>
+</div>
+</div>

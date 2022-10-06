@@ -1,0 +1,75 @@
+  <h1 style="text-align: center;">Check Available Refills!</h1>
+  <div class="container-fluid" style="margin-top: 10%;">
+    <div class="row">
+      <div class="offset-lg-3 col-lg-6">
+
+        <div class="card-box" style="background-color: rgba(204, 204, 204, 0.299);">
+
+          <form (ngSubmit)="ProceedWithSearch()">
+
+
+            <div class="row" style="display: block;">
+              <h2 style="text-align: center;">Search Refill Dues By Id</h2>
+            </div>
+            <div class="row">
+              <div class="offset-lg-3 col-lg-6">
+                <div class="form-group">
+                  <label for="drugid">Enter Subscription Id</label>
+                  <input type="number" #drugid class="form-control" formControlName="DrugId" placeholder=""
+                    (input)="getvalue(drugid.value)" autocomplete="off" />
+                </div>
+              </div>
+            </div>
+
+            <div class="row">
+              <div class="offset-lg-3 col-lg-2">
+                <br>
+                <div class="form-group" style="text-align: center;">
+                  <button type="submit" class="btn btn-warning btn-outline-dark btn-lg btn-block">Search</button>
+                </div>
+              </div>
+              <div class="col-lg-3">
+                <br>
+                <span></span>
+              </div>
+            </div>
+            <br>
+            <!-- //Put some value here -->
+            <div *ngIf=true>
+              <h2>Refill Status</h2>
+              <div>
+                <table class="table table-bordered table-hover">
+                  <thead>
+                    <tr>
+                      <th>Subscription Id</th>
+                      <!--<th>Refill Date</th>
+                    <th>Refill Dues</th>>
+                    <th>Refill Delivery</th>
+                    <th>Payment Done</th>-->
+                      <th>Refill Dues</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <!-- id: 1, refillDate: "2020-11-24T12:12:00", Refill Dues: true/false, refillDelivered: true, payment: true,…} -->
+                    <tr>
+                      <td>{{Id}}</td>
+
+
+                      <td>{{n}}</td>
+                    </tr>
+
+                  </tbody>
+
+                </table>
+                <div *ngIf=u>
+                  <h2 style="color:red">Invalid Subscription Id</h2>
+                </div>
+              </div>
+            </div>
+
+          </form>
+
+        </div>
+      </div>
+    </div>
+  </div>
